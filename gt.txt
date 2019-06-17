@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 firstLine-diff5
+=======
+firstLine-diff4
+>>>>>>> 4a18c46e2519797719a5570586c86d4e5b3414d0

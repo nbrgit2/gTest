@@ -1,2 +1,1 @@
-firstLine-diff1010
-line2
+firstLine-diffjava

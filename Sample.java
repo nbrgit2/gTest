@@ -6,7 +6,7 @@ public class SmallWindow {
 
 	public static void main(String[] args) {
 		
-		String str = "aabcbcdbca"; 
+		String str = "aabcbcdbcadbc"; 
 	    
 	    List<Character> dist=new ArrayList<>();
 	    int dist_count=0;
@@ -21,7 +21,8 @@ public class SmallWindow {
 	    }
 	    
 	    int start=0;int start_index=0; 
-	    int min_length=Integer.MAX_VALUE; int winCount=0;
+	    int min_length=Integer.MAX_VALUE; 
+		int winCount=0;
 	    
 	    Map<Character,Integer> curMap=new HashMap<>();
 	    
@@ -71,8 +72,8 @@ public class SmallWindow {
 	}
 
 	
-	//My own Code
-/*package whatever //do not write package name here */
+	
+/*//My own Code-package whatever //do not write package name here */
 
 import java.io.*;
 import java.util.*;

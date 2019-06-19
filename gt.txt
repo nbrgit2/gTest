@@ -1,3 +1,1 @@
-firstLine-diff11
-
-line2
+firstLine-diff14

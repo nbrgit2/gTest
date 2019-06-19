@@ -1,4 +1,4 @@
-firstLine-diff1011
+firstLine-diffjava
 
 
 line2

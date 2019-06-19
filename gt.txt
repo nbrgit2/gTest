@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-firstLine-diff12
-=======
 firstLine-diff11
 
-line2
->>>>>>> 76045614721babd29d53d56d4ef82a9dcbe0c749
+line3

@@ -1,4 +1,4 @@
-//Second Commit
+//Mofied Sample
 import java.util.Arrays;
 import java.util.*;
 

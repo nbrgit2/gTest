@@ -2,4 +2,4 @@ firstLine-diffjava
 Added F1
 Added F2
 line2-F1.F2
-Add1
+Add2
